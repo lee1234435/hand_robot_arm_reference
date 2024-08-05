@@ -1,0 +1,3 @@
+[submodule "gesture-recognition"]
+	path = gesture-recognition
+	url = https://github.com/lee1234435/hand_robot_arm_reference.git
